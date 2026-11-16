@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VoltGuard Battery</string>
+    <string name="tile_label_default">VoltGuard</string>
+    <string name="channel_monitor_name">Battery Telemetry Monitor</string>
+    <string name="channel_monitor_desc">Low-priority persistent notification required for continuous battery &amp; thermal sensing.</string>
+    <string name="channel_alerts_name">Charging &amp; Longevity Nudges</string>
+    <string name="channel_alerts_desc">Data-driven alerts when reaching 80% charge or during JEITA thermal slowdowns.</string>
+</resources>
